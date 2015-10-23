@@ -1,15 +1,18 @@
-header img {
-  width: 33%;
+body {
+  background-color: aqua;
 }
-/* more specific takes precedence*/
-nav a {
-  text-decoration: line-through;
+h1 {
+  color: magenta;
 }
-a {
-  text-decoration: none;
+p { 
+  color: gray; 
 }
-/* more
-
+aside p {
+  color: black; 
+}
+footer a {
+  color: red;
+}
 
 
   
